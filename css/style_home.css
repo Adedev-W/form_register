@@ -1,0 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Open+Sans:wght@300;800&display=swap');
+
+.hero {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+/* Bottom left text */
+.hero_content {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+.ap {
+	font-family: 'Anton', sans-serif;
+}
+.ff {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+}
+

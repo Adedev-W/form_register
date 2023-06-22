@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Open+Sans:wght@300;400;500;800&display=swap');
+.fs {
+	
+	font-size: 25px;
+	
+	
+}
+.sdw:hover {
+  box-shadow: 0px 3px 20px 0px #0054FF;
+}
+
+
+
+.ap {
+	font-family: 'Open Sans', sans-serif;
+}
+
+input, label {
+	font-family: 'Open Sans', sans-serif !important;
+}
